@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  StoreSearch
+
+  Created by Matthijs on 15/08/2016.
+  Copyright © 2016 Razeware. All rights reserved.
+*/
+
+CFBundleDisplayName = "StoreZoeker";
